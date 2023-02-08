@@ -2,8 +2,8 @@
 THIS TOOL IS OPEN SOURCE AND FREE TO USE . NOT FOR SALE !!
 DONT REMOVE THIS CREDIT IF YOU ARE A GOOD MANNERS PROGRAMMER
 
-# Coded by : YTTA
-# Github : https://github.com/ichikyuuofficial
+# Coded by : Andhika Dwi Maulana
+# Github : https://github.com/dkyotsuya
 # Created : Sat , 06 Oct 2022 01:46
 
 '''
