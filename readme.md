@@ -20,7 +20,3 @@
 > Recommend site to search and explore asn :
 
 * [IPINFO](https://ipinfo.io/countries)
-
-## Proof
-
-![proof](https://user-images.githubusercontent.com/114583810/192851993-4bb1d1ce-4212-4cee-a2c1-04d7342e1611.PNG)
