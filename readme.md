@@ -9,7 +9,7 @@
 
 ```markdown
 - git clone https://github.com/dkyotsuya/IPGrabber
-- cd asn-to-ip
+- cd IPGrabber
 - pip install -r requirements.txt
 - Explore and add asn to asn.txt and then save it
 - python api_v1.py or python api_v2.py
